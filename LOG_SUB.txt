@@ -1,0 +1,684 @@
+[17:30:36] USER: Simulation domain Nx, Ny, Nz: [1175, 202, 119]                 
+           USER: Applied symmetries: (0, 0, 0)                                  
+           USER: Number of computational grid points: 2.9053e+07.               
+           USER: Subpixel averaging method: SubpixelSpec(attrs={},              
+           dielectric=PolarizedAveraging(attrs={}, type='PolarizedAveraging'),  
+           metal=Staircasing(attrs={}, type='Staircasing'),                     
+           pec=PECConformal(attrs={}, type='PECConformal',                      
+           timestep_reduction=0.3), lossy_metal=SurfaceImpedance(attrs={},      
+           type='SurfaceImpedance', timestep_reduction=0.0),                    
+           type='SubpixelSpec')                                                 
+           USER: Number of time steps: 1.1836e+04                               
+           USER: Automatic shutoff factor: 1.00e-05                             
+           USER: Time step (s): 8.4500e-17                                      
+           USER:                                                                
+                                                                                
+           USER: Mode solver at f=1.9348296232e+14 with plane size (49, 38),    
+           direction: +                                                         
+           USER: Compute source modes time (s):     0.6162                      
+[17:30:37] USER: Rest of setup time (s):            0.5052                      
+[17:30:52] USER: Mode solver at f=1.9986163867e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9933009176e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9919764651e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9906537716e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9972848634e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9893328334e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9959551132e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9946271324e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9814438731e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9827543519e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9880136472e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9801351255e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9866962094e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9775228100e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9788281056e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9697270565e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9710220776e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9853805166e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9749173781e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9684337360e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9671421129e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9723188026e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9762192353e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9840665652e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9658521836e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:30:52] USER: Mode solver at f=1.9736172350e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:03] USER: Mode solver at f=1.9645639450e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:04] USER: Mode solver at f=1.9632773936e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:05] USER: Mode solver at f=1.9619925262e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9607093394e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9594278301e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9581479948e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9568698303e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9555933333e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9543185007e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9530453290e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9517738151e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:07] USER: Mode solver at f=1.9505039558e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9492357477e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9479691878e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9467042727e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9454409994e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9441793645e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9429193649e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9416609974e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9404042589e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9391491462e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9378956561e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9366437855e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:08] USER: Mode solver at f=1.9353935313e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:09] USER: Mode solver at f=1.9341448903e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:09] USER: Mode solver at f=1.9328978594e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:10] USER: Mode solver at f=1.9316524356e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:10] USER: Mode solver at f=1.9304086156e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:15] USER: Mode solver at f=1.9291663964e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:18] USER: Mode solver at f=1.9279257749e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9266867481e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9254493128e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9242134660e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9229792046e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9217465256e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9205154260e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9192859027e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:19] USER: Mode solver at f=1.9180579527e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9168315729e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9156067604e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9143835121e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9131618251e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9119416964e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9107231230e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:20] USER: Mode solver at f=1.9095061019e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9082906302e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9070767048e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9058643229e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9046534816e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9034441778e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9022364086e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.9010301712e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.8998254626e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.8986222799e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:21] USER: Mode solver at f=1.8974206203e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:30] USER: Mode solver at f=1.8962204807e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:33] USER: Mode solver at f=1.8950218584e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:33] USER: Mode solver at f=1.8938247505e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:34] USER: Mode solver at f=1.8926291540e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:34] USER: Mode solver at f=1.8914350662e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:34] USER: Mode solver at f=1.8902424842e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:34] USER: Mode solver at f=1.8890514052e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:34] USER: Mode solver at f=1.8878618262e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8866737445e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8854871572e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8843020616e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8831184548e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8819363340e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8807556964e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8795765392e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8783988596e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8772226550e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:35] USER: Mode solver at f=1.8760479224e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:36] USER: Mode solver at f=1.8748746592e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:36] USER: Mode solver at f=1.8737028625e+14 with plane size (49, 38),    
+           direction: +                                                         
+[17:31:44] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '193539353131052.3' and '193414489032258.06' (overlap:   
+           '0.00').                                                             
+[17:31:45] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '196585218360655.75' and '196456394495412.84' (overlap:  
+           '0.73').                                                             
+           WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '196972705650459.9' and '196843373604727.5' (overlap:    
+           '0.03').                                                             
+[17:31:46] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '197752281002638.53' and '197621923533289.4' (overlap:   
+           '0.00').                                                             
+[17:31:49] USER: Mode solver at f=1.9986163867e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9853805166e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9880136472e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9946271324e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9893328334e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9972848634e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9959551132e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9801351255e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9866962094e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9933009176e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9919764651e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9906537716e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9814438731e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9840665652e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9827543519e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9749173781e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9775228100e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9736172350e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9762192353e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9788281056e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9710220776e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9684337360e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9723188026e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9697270565e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9671421129e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:31:49] USER: Mode solver at f=1.9658521836e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:04] USER: Mode solver at f=1.9645639450e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:04] USER: Mode solver at f=1.9632773936e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:04] USER: Mode solver at f=1.9619925262e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:04] USER: Mode solver at f=1.9607093394e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9594278301e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9581479948e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9568698303e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9555933333e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9543185007e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9530453290e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9517738151e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9505039558e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:05] USER: Mode solver at f=1.9492357477e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9479691878e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9467042727e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9454409994e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9441793645e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9429193649e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9416609974e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9404042589e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9391491462e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9378956561e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9366437855e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9353935313e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:06] USER: Mode solver at f=1.9341448903e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:07] USER: Mode solver at f=1.9328978594e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:19] USER: Mode solver at f=1.9316524356e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:19] USER: Mode solver at f=1.9304086156e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:19] USER: Mode solver at f=1.9291663964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9279257749e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9266867481e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9254493128e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9242134660e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9229792046e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9217465256e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9205154260e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9192859027e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9180579527e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:20] USER: Mode solver at f=1.9168315729e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:21] USER: Mode solver at f=1.9156067604e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:21] USER: Mode solver at f=1.9143835121e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:21] USER: Mode solver at f=1.9131618251e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:21] USER: Mode solver at f=1.9119416964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9107231230e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9095061019e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9082906302e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9070767048e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9058643229e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9046534816e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9034441778e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:22] USER: Mode solver at f=1.9022364086e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:23] USER: Mode solver at f=1.9010301712e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:32] USER: Mode solver at f=1.8998254626e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:32] USER: Mode solver at f=1.8986222799e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:32] USER: Mode solver at f=1.8974206203e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:32] USER: Mode solver at f=1.8962204807e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:35] USER: Mode solver at f=1.8950218584e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:35] USER: Mode solver at f=1.8938247505e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:35] USER: Mode solver at f=1.8926291540e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8914350662e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8902424842e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8890514052e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8878618262e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8866737445e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8854871572e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:36] USER: Mode solver at f=1.8843020616e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:37] USER: Mode solver at f=1.8831184548e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:37] USER: Mode solver at f=1.8819363340e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:37] USER: Mode solver at f=1.8807556964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8795765392e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8783988596e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8772226550e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8760479224e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8748746592e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:38] USER: Mode solver at f=1.8737028625e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:48] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '195686983028720.62' and '195559333333333.34' (overlap:  
+           '0.00').                                                             
+[17:32:49] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '198538051655629.12' and '198406656518861.66' (overlap:  
+           '0.01').                                                             
+[17:32:52] USER: Mode solver at f=1.9986163867e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9814438731e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9933009176e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9880136472e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9827543519e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9840665652e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9788281056e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9775228100e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9893328334e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9853805166e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9959551132e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9866962094e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9906537716e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9946271324e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9972848634e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9919764651e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9801351255e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9762192353e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9723188026e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9710220776e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9736172350e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9671421129e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9658521836e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9749173781e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9684337360e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:32:52] USER: Mode solver at f=1.9697270565e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:08] USER: Mode solver at f=1.9645639450e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:08] USER: Mode solver at f=1.9632773936e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:08] USER: Mode solver at f=1.9619925262e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:08] USER: Mode solver at f=1.9607093394e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9594278301e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9581479948e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9568698303e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9555933333e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9543185007e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9530453290e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9517738151e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9505039558e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9492357477e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9479691878e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:09] USER: Mode solver at f=1.9467042727e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9454409994e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9441793645e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9429193649e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9416609974e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9404042589e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9391491462e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9378956561e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:10] USER: Mode solver at f=1.9366437855e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:11] USER: Mode solver at f=1.9353935313e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:12] USER: Mode solver at f=1.9341448903e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:12] USER: Mode solver at f=1.9328978594e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:22] USER: Mode solver at f=1.9316524356e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:23] USER: Mode solver at f=1.9304086156e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9291663964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9279257749e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9266867481e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9254493128e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9242134660e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9229792046e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9217465256e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9205154260e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9192859027e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:24] USER: Mode solver at f=1.9180579527e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9168315729e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9156067604e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9143835121e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9131618251e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9119416964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9107231230e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9095061019e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9082906302e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9070767048e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:25] USER: Mode solver at f=1.9058643229e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:26] USER: Mode solver at f=1.9046534816e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:26] USER: Mode solver at f=1.9034441778e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:26] USER: Mode solver at f=1.9022364086e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:27] USER: Mode solver at f=1.9010301712e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:35] USER: Mode solver at f=1.8998254626e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:36] USER: Mode solver at f=1.8986222799e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:37] USER: Mode solver at f=1.8974206203e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:37] USER: Mode solver at f=1.8962204807e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:38] USER: Mode solver at f=1.8950218584e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:38] USER: Mode solver at f=1.8938247505e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8926291540e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8914350662e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8902424842e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8890514052e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8878618262e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8866737445e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:39] USER: Mode solver at f=1.8854871572e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8843020616e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8831184548e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8819363340e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8807556964e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8795765392e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:40] USER: Mode solver at f=1.8783988596e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:41] USER: Mode solver at f=1.8772226550e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:41] USER: Mode solver at f=1.8760479224e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:41] USER: Mode solver at f=1.8748746592e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:41] USER: Mode solver at f=1.8737028625e+14 with plane size (48, 38),    
+           direction: +                                                         
+[17:33:53] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '195686983028720.62' and '195559333333333.34' (overlap:  
+           '0.00').                                                             
+[17:33:54] WARNING: Mode '0' appears to undergo a discontinuous change between  
+           frequencies '198538051655629.12' and '198406656518861.66' (overlap:  
+           '0.01').                                                             
+[17:33:57] USER: Compute monitor modes time (s):    184.7830                    
+           USER: Solver time (s):                   28.7900                     
+           USER: Time-stepping speed (cells/s):     1.72e+10                    
+[17:33:59] USER: Post-processing time (s):          1.6900                      
+
+ ====== SOLVER LOG ====== 
+
+Processing grid and structures...
+Building FDTD update coefficients...
+Solver setup time (s):             12.6276
+
+Running solver for 11836 time steps...
+- Time step    473 / time 4.00e-14s (  4 % done), field decay: 1.00e+00
+- Time step    487 / time 4.12e-14s (  4 % done), field decay: 1.00e+00
+- Time step    946 / time 7.99e-14s (  8 % done), field decay: 1.00e+00
+- Time step   1420 / time 1.20e-13s ( 12 % done), field decay: 9.25e-02
+- Time step   1893 / time 1.60e-13s ( 16 % done), field decay: 1.29e-02
+- Time step   2367 / time 2.00e-13s ( 20 % done), field decay: 5.03e-03
+- Time step   2840 / time 2.40e-13s ( 24 % done), field decay: 2.95e-03
+- Time step   3314 / time 2.80e-13s ( 28 % done), field decay: 1.37e-03
+- Time step   3787 / time 3.20e-13s ( 32 % done), field decay: 1.07e-03
+- Time step   4260 / time 3.60e-13s ( 36 % done), field decay: 1.14e-03
+- Time step   4734 / time 4.00e-13s ( 40 % done), field decay: 1.49e-03
+- Time step   5207 / time 4.40e-13s ( 44 % done), field decay: 1.57e-03
+- Time step   5681 / time 4.80e-13s ( 48 % done), field decay: 1.45e-03
+- Time step   6154 / time 5.20e-13s ( 52 % done), field decay: 1.28e-03
+- Time step   6628 / time 5.60e-13s ( 56 % done), field decay: 6.93e-04
+- Time step   7101 / time 6.00e-13s ( 60 % done), field decay: 4.34e-04
+- Time step   7575 / time 6.40e-13s ( 64 % done), field decay: 2.12e-04
+- Time step   8048 / time 6.80e-13s ( 68 % done), field decay: 3.27e-05
+- Time step   8521 / time 7.20e-13s ( 72 % done), field decay: 1.81e-05
+- Time step   8995 / time 7.60e-13s ( 76 % done), field decay: 7.45e-06
+Field decay smaller than shutoff factor, exiting solver.
+Time-stepping time (s):            15.1684
+Data write time (s):               0.1903
