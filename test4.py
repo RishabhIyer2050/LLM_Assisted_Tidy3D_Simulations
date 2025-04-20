@@ -58,6 +58,18 @@ if __name__ == "__main__":
         with open(LOG_SUB, "w", encoding="utf-8") as file:
             file.write(log_sub.strip())
 
+        with open(LOG_SUB, "r", encoding="utf-8") as file:
+            lines = file.readlines()
+
+        for i, line in enumerate(lines):
+            if "WARNING" in line:
+                print(line.strip())
+                # Print next two lines, if they exist
+                if i + 1 < len(lines):
+                    print(lines[i + 1].strip())
+                if i + 2 < len(lines):
+                    print(lines[i + 2].strip())
+
     update_vars = run_llm(tinycomp, LOG_SUB)
 
     sim_settings_new = tinycomp.settings

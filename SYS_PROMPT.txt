@@ -40,7 +40,7 @@ Your job is to help a photonic‑chip engineer debug MODE and FDTD simulations.
 7. port_size_mult
    - Data Type: float or tuple[float, float]
    - Description: Specifies the multiplier applied to the port size. If it is a float, the multiplier is applied to the x and y lenghts. If it is a tuple, the first value is applied to the x and y lenghts and the second value is applied to the z length.
-   - Conditions: Each value >0
+   - Conditions: Each value >1
 
 8. num_modes
    - Data Type: int

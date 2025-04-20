@@ -1,2 +1,36 @@
-[17:13:51] DEBUG: Creating task.                                                                                                                   
-[17:13:53] DEBUG: https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/mo-3068a2a1-8b44-49e2-9c39-af5afc90f7f0
+[22:47:43] DEBUG: Creating task.                                                                                                                   
+           DEBUG: Creating task.                                                                                                                   
+           DEBUG: Creating task.                                                                                                                   
+[22:47:46] DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-0a7dd36a-573d-480b-9db6-b78f27d8cc74     
+           DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-9c09b6b9-fbe8-4250-a6df-3272a071b68d     
+           DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-4822fca2-6de6-4bde-8be0-09f40f6df982     
+[22:47:56] WARNING: Simulation final field decay value of 0.233 is greater than the simulation shutoff threshold of 1e-05. Consider running the    
+           simulation again with a larger 'run_time' duration for more accurate results.                                                           
+           WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            
+[22:47:57] WARNING: Simulation final field decay value of 0.317 is greater than the simulation shutoff threshold of 1e-05. Consider running the    
+           simulation again with a larger 'run_time' duration for more accurate results.                                                           
+           WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            
+           WARNING: Simulation final field decay value of 0.318 is greater than the simulation shutoff threshold of 1e-05. Consider running the    
+           simulation again with a larger 'run_time' duration for more accurate results.                                                           
+           WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            
+[22:47:59] DEBUG: Creating task.                                                                                                                   
+           DEBUG: Creating task.                                                                                                                   
+           DEBUG: Creating task.                                                                                                                   
+[22:48:02] DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-da3f6357-eb85-4ed2-9733-f634683abcc2     
+           DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-6aba2eb1-49dc-461c-b3e3-b81abcc66a31     
+           DEBUG:                                                                                                                                  
+           https://tidy3d.simulation.cloud/folders/folder-39c72b09-9114-4b64-8845-ba220771d3c2/tasks/fdve-c4bb902c-d3b6-4687-aff2-ceefe0ce599c     
+[22:48:13] WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            
+[22:48:14] WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            
+           WARNING: Warning messages were found in the solver log. For more information, check 'SimulationData.log' or use                         
+           'web.download_log(task_id)'.                                                                                                            

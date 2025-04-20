@@ -5,7 +5,7 @@ from gdsfactory.generic_tech import get_generic_pdk
 
 import tidy3d as td
 
-from llm_simulator import Tidy3DSimulator, run_fdtdsimulation_llm
+from llm_simulator import Tidy3DSimulator, run_modesimulation_llm
 from SimulationSettings import SimulationSettingsTiny3DFdtd, SIMULATION_SETTINGS_LUMERICAL_TINY3D_DEFAULT
 
 if __name__ == "__main__":
@@ -32,10 +32,12 @@ if __name__ == "__main__":
 
     td.set_logging_file(fname = LOG_MAIN, level="DEBUG", filemode='w')
 
-    # This warning is generated when the run_time or shutoff parameter in the Simulation Setting File is too small.
+    # This error is generated when the pad_xy_inner parameter in the SimulationSetting File is set to 0. 
     
-    custom_settings = SimulationSettingsTiny3DFdtd(run_time=1e-13)
+    custom_settings = SimulationSettingsTiny3DFdtd(pad_xy_inner=0)
 
     tinycomp = Tidy3DSimulator(component=c, settings=custom_settings)
 
-    fdtd_solver, smatrix = run_fdtdsimulation_llm(tinycomp, dominant_neff=1)
+    _, mode_data = run_modesimulation_llm(tinycomp)
+
+    print(mode_data.to_dataframe())

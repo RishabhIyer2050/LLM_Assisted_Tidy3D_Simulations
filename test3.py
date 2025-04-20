@@ -32,10 +32,12 @@ if __name__ == "__main__":
 
     td.set_logging_file(fname = LOG_MAIN, level="DEBUG", filemode='w')
 
-    # This error is generated when the pad_xy_inner parameter in the Simulation Setting File to 0. 
+    # This error is generated when the port_size_mult parameter in the Simulation Setting File to 0. 
     
-    custom_settings = SimulationSettingsTiny3DFdtd(pad_xy_inner=0)
+    custom_settings = SimulationSettingsTiny3DFdtd(port_size_mult=(0,0))
 
     tinycomp = Tidy3DSimulator(component=c, settings=custom_settings)
 
-    fdtd_solver, smatrix = run_modesimulation_llm(tinycomp)
+    _, mode_data = run_modesimulation_llm(tinycomp)
+
+    print(mode_data.to_dataframe())

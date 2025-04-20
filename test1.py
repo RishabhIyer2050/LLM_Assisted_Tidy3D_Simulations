@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
     td.set_logging_file(fname = LOG_MAIN, level="DEBUG", filemode='w')
 
-    # This error is generated when the port_offset parameter in the Simulation Setting File to 0. 
+    # This error is generated when the port_offset parameter in the SimulationSetting File to 0. 
 
     custom_settings = SimulationSettingsTiny3DFdtd(port_offset=0)
 
